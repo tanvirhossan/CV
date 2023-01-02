@@ -1,0 +1,55 @@
+body
+{
+    background-color: floralwhite;
+}
+img
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+}
+.det{
+    float: left;
+    padding: 10px;
+}
+.cont{
+    padding: 10px;
+    float: right;
+} 
+.cont a{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+}
+.cleardiv
+{
+    clear: both;
+}
+h1,h2,h4,h5,h6{
+    color: brown;
+}
+hr{
+    border: solid black 2px;
+}
+.leftdiv{
+    width: 20%;
+    float: left;
+}
+.rightdiv{
+    width: 80%;
+    float: left;
+    color: green;
+}
+.cmnhr
+{
+    border: solid black 1px;
+}
+.rightdiv a{
+    text-decoration: none;
+    color: green;
+}
+.rightdiv ul li
+{
+ list-style: none;
+}
